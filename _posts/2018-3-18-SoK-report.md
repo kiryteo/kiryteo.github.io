@@ -5,7 +5,7 @@ subtitle: Final Report
 tags: ['KDE','Season of KDE','Kdenlive']
 ---
 
-Season of KDE is an open source application development programme
+Season of KDE is an open source application development program
 hosted by KDE.
 
 I worked for the past two months on one of the most popular open source
