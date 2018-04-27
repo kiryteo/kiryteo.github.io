@@ -5,7 +5,7 @@ subtitle: Technical details
 tags: ['KDE','Season of KDE','Kdenlive']
 ---
 
-Here, I have added the technical details of the SoK work. 
+Here, I have added the technical details for the SoK work. 
 
 Project Name: Improve on monitor controls for image transformations in Kdenlive
 
