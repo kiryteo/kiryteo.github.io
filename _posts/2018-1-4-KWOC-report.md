@@ -4,11 +4,6 @@ title: Kharagpur Winter of Code, 2017
 subtitle: Program Report
 tags: ['IIT-KGP','Kharagpur Winter of Code']
 ---
-**KWOC | Kharagpur Winter of Code**
-
-**Project Report**
-
-January 4, 2018
 
 KWOC is the 5-week long online program for the students who are new to
 open source software development. The program acts to be the platform for
