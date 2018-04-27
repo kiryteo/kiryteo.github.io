@@ -1,8 +1,9 @@
-****Season of KDE, 2018****
-
-Final Report
-
-March 18, 2018
+---
+layout: post
+title: Season of KDE, 2018
+subtitle: Final Report
+tags: ['KDE','Season of KDE','Kdenlive']
+---
 
 Season of KDE is an open source application development programme
 hosted by KDE.
