@@ -6,7 +6,7 @@ subtitle: Follow Cap'n Jack Sparrow
 
 I am an open source enthusiast. Somewhere between a night owl and an early birdie. :P  
  
-Shuttler. Music lover. Sketching. 
+Shuttler. Music. Sketching. 
 (will add more :D )
 
 
