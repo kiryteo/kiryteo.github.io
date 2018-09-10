@@ -15,7 +15,8 @@ This year Akademy was organized in Vienna, which was declared to be the most liv
 
 ![City_View](/img/photo6318720564520396920.jpg) 
  
-I attended the program from 12th August (sadly missing the talks on day 1 due to institute examinations.!). Day 2 Started with the keynote by Claudia Garad, where she spoke about the various hurdles commonly faced by Wikimedia and KDE. Aditya Mehra gave a talk on MyCroft AI, one interesting and unique application being developed on Plasma. The talk by Lukas on Python and Qml was really enlightening for me as having worked with qml for my Season of KDE project with Kdenlive. The postmarketOS talk by Oliver gave me an insight of the ‘not so open source’ Android OS and the ways to get most out of a mobile operating system. In other talk on openSUSE’s different distros, Ludwig shared the pros and cons of currently deployed systems like Tumbleweed, Leap.
+I attended the program from 12th August (sadly missing the talks on day 1 due to institute examinations.!). Day 2 Started with the keynote by Claudia Garad, where she spoke about the various hurdles commonly faced by Wikimedia and KDE. Aditya Mehra gave a talk on MyCroft AI, one interesting and unique application being developed on Plasma. The talk by Lukas on Python and Qml was really enlightening for me as having worked with qml for my Season of KDE project with Kdenlive. The postmarketOS talk by Oliver gave me an insight of the not so contributor friendly Android OS and the ways to get most out of a mobile operating system with this postmarketOS project. In other talk on openSUSE’s different distros, Ludwig shared the pros and cons of currently deployed systems like Tumbleweed, Leap.
+
 
 I really liked the talk by Nate Graham discussing the plan to improve KDE applications reach and focusing on more inclusivity. The session concluded with the traditional Akademy awards recognizing the awesome work done by community members.
 
