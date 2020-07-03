@@ -8,12 +8,12 @@ meta-title: About me
 
 <p class="about-text">
 <!--<span class="fa fa-briefcase about-icon"></span> -->
- Hi, my name is <strong>Ashwin Samudre</strong>, I am currently a visitor at <a target="_blank" href="https://www.mlai-kaist.com/"> EMBL Heidleberg </a> 
- in Kreshuk group, under the supervison of <a target="_blank" href="http://www.sungjuhwang.com/"> Anna Kreshuk </a>. I am working on localization of Kinetochores (proteins in cell division process).
+ Hi, my name is <strong>Ashwin Samudre</strong>, I am currently a visitor at <a target="_blank" href="https://www.embl.de/"> EMBL Heidleberg </a> 
+ in Kreshuk group, under the supervison of <a target="_blank" href="https://www.embl.de/research/units/cbb/kreshuk/members/index.php?s_personId=CP-60028565"> Anna Kreshuk </a>. I am working on localization of Kinetochores (proteins in cell division process).
  </p>
 <p class="about-text">
 <!-- <span class="fa fa-graduation-cap about-icon"></span> -->
-I obtained my Bachelor of Engineering degree in Computer Engineering from <a target="_blank" href="http://puchd.ac.in/">Pune Institute of Computer Technology&nbsp;, University of Pune</a>, Pune, India.
+I obtained my Bachelor of Engineering degree in Computer Engineering from <a target="_blank" href="https://pict.edu/">Pune Institute of Computer Technology&nbsp; </a>, University of Pune, Pune, India.
 </p>
 
 <p class="about-text">
