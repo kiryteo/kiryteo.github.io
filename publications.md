@@ -17,7 +17,7 @@ Nikita Moriakov, <b>Ashwin Samudre</b>, Michela Negro, Fabian Gieseke, Sydney Ot
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span>
 <b>Ashwin Samudre</b>, Lijo George, Yogesh Wadadekar. *Classification of Radio Galaxies with less data*, ICLR 2020 Workshop on Fundamental Science in the Era of AI (FSAI). (<a target="_blank" href="https://drive.google.com/file/d/1aYQbIAB6xjok8zlCxl25Gz0W4-xgmoPe/view?usp=sharing">Paper</a>)
 
-<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span>
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL SUBMISSION</b></span>
 <b>Ashwin Samudre</b>, Lijo George, Mahak Bansal, Yogesh Wadadekar. *Data-Efficient Classification of Radio Galaxies*, Submitted to MNRAS. (<a target="_blank" href="https://arxiv.org/abs/2011.13311">Paper</a>)
 
 ## 2019
