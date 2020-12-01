@@ -10,7 +10,7 @@ meta-title: About me
 <!--<span class="fa fa-briefcase about-icon"></span> -->
  Hello, my name is <strong>Ashwin Samudre</strong>, I am currently a visitor at <a target="_blank" href="https://www.embl.de/">EMBL Heidelberg</a> 
  in Kreshuk group, under the supervision of <a target="_blank" href="https://www.embl.de/research/units/cbb/kreshuk/members/index.php?s_personId=CP-60028565">Anna Kreshuk</a>. I am working on localization of Kinetochores (proteins in cell division process).
- Previously, I worked at <a target="_blank" href="http://www.cinam.univ-mrs.fr/cinam/en/">CNRS CINAM</a> in Marseille, France as Research Engineer (contrat à durée déterminée) on development of automated pipeline for detection and classification of Red Blood Cells from video files.
+ Previously, I worked at <a target="_blank" href="http://www.cinam.univ-mrs.fr/cinam/en/">CNRS CINAM</a> in Marseille, France as Research Engineer (contrat à durée déterminée) on development of automated pipeline for detection and classification of Red Blood Cells from blood flow recordings.
  </p>
 <p class="about-text">
 <!-- <span class="fa fa-graduation-cap about-icon"></span> -->
