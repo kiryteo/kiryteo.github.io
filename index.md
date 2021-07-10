@@ -8,9 +8,9 @@ meta-title: About me
 
 <p class="about-text">
 <!--<span class="fa fa-briefcase about-icon"></span> -->
- Hello, my name is <strong>Ashwin Samudre</strong>, I am currently a visitor at <a target="_blank" href="https://www.embl.de/">EMBL Heidelberg</a> 
- in Kreshuk group, under the supervision of <a target="_blank" href="https://www.embl.de/research/units/cbb/kreshuk/members/index.php?s_personId=CP-60028565">Anna Kreshuk</a>. I am working on localization of Kinetochores (proteins in cell division process).
- Previously, I worked at <a target="_blank" href="http://www.cinam.univ-mrs.fr/cinam/en/">CNRS CINAM</a> in Marseille, France as Research Engineer (contrat à durée déterminée) on development of automated pipeline for detection and classification of Red Blood Cells from blood flow recordings.
+ Hello, my name is <strong>Ashwin Samudre</strong>, I am currently a research assistant in <a target="_blank" href="https://www.medicalimageanalysis.com/">MIA group</a> at Simon Fraser University, Canada, under the supervision of Prof. Ghassan Hamarneh. I'm working on ER (Endoplasmic Reticulum) data analysis. Previously, I was a visitor at <a target="_blank" href="https://www.embl.de/">EMBL Heidelberg</a> 
+ in <a target="_blank" href="https://www.embl.de/research/units/cbb/kreshuk/members/index.php?s_personId=CP-60028565">Anna Kreshuk's</a> group where I worked on localization of Kinetochores (proteins in cell division process).
+ Before that, I worked at <a target="_blank" href="http://www.cinam.univ-mrs.fr/cinam/en/">CNRS CINAM</a> in Marseille, France as Research Engineer (contrat à durée déterminée) on development of automated pipeline for detection and classification of Red Blood Cells from blood flow recordings.
  </p>
 <p class="about-text">
 <!-- <span class="fa fa-graduation-cap about-icon"></span> -->
@@ -19,7 +19,7 @@ I obtained my Bachelor of Engineering degree in Computer Engineering from <a tar
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
-My research interests include semi-supervised learning, unsupervised learning, application of methods from computer vision in the scientific problems (Physics, Biology, Climate Science).
+I'm broadly interested in Computer Vision (Segmentation, Depth estimation) and Deep Learning (Generative Modeling - VAEs, Flows) along with the application of these methods in the scientific problems (Physics, Biology, Climate Science). <!--I collaborate with awesome people at DeepSkies lab and with the researchers at ECMWF as part of the ESoWC (2020, 2021) program.-->
 </p>
 
 <!-- <p class="about-text">
