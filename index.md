@@ -19,7 +19,7 @@ I obtained my Bachelor of Engineering degree in Computer Engineering from <a tar
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
-I'm broadly interested in Computer Vision (Segmentation, Depth estimation) and Deep Learning (Generative Modeling - VAEs, Flows) along with the application of these methods in the scientific problems (Physics, Biology, Climate Science). <!--I collaborate with awesome people at DeepSkies lab and with the researchers at ECMWF as part of the ESoWC (2020, 2021) program.-->
+I'm broadly interested in Computer Vision and Deep Learning along with the computational methods development for scientific problems (Physics, Biology, Climate Science). I also collaborate with researchers at ECMWF as part of the ESoWC (<a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a>) program.
 </p>
 
 <!-- <p class="about-text">
