@@ -8,7 +8,7 @@ Papers can also be found on [Google Scholar](https://scholar.google.com/citation
 ## 2021
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
-<b>Ashwin Samudre</b>, Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Data-Efficient Classification of Radio Galaxies*</b>, Submitted to MNRAS. (<a target="_blank" href="https://doi.org/10.1093/mnras/stab3144">Paper</a>)
+<b>Ashwin Samudre</b>, Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Data-Efficient Classification of Radio Galaxies*</b>, Monthly Notices of Royal Astronomical Society (<a target="_blank" href="https://doi.org/10.1093/mnras/stab3144">Paper</a>)
 
 ## 2020
 
