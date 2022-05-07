@@ -5,10 +5,15 @@ title: Publications
 
 Papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=Btu380oAAAAJ&hl=en). 
 
+## 2022
+
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL SUBMISSION</b></span>
+<b>Ashwin Samudre</b>, Maxime Darrin, Maxime Sahun, Scott Atwell, Catherine Badens, Anne Charrier, Emmanuèle Helfer, Annie Viallat, Vincent Cohen-Addad, Sophie Giffard-Roisin. <b>*Classification of blood cells dynamics with convolutional and recurrent neural networks: a sickle cell disease case study*</b>, Under Review.
+
 ## 2021
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
-<b>Ashwin Samudre</b>, Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Data-Efficient Classification of Radio Galaxies*</b>, Submitted to MNRAS. (<a target="_blank" href="https://doi.org/10.1093/mnras/stab3144">Paper</a>)
+<b>Ashwin Samudre</b>, Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Data-Efficient Classification of Radio Galaxies*</b>, Monthly Notices of Royal Astronomical Society (<a target="_blank" href="https://doi.org/10.1093/mnras/stab3144">Paper</a>)
 
 ## 2020
 
