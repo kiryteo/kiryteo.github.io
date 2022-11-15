@@ -8,18 +8,13 @@ meta-title: About me
 
 <p class="about-text">
 <!--<span class="fa fa-briefcase about-icon"></span> -->
- Hello, my name is <strong>Ashwin Samudre</strong>, I am currently a MSc student/ research assistant in <a target="_blank" href="https://www.medicalimageanalysis.com/">MIA group</a> at Simon Fraser University, Canada, under the supervision of Prof. Ghassan Hamarneh. I'm working on ER (Endoplasmic Reticulum) data analysis. Previously, I was a visitor at <a target="_blank" href="https://www.embl.de/">EMBL Heidelberg</a> 
- in <a target="_blank" href="https://www.embl.de/research/units/cbb/kreshuk/members/index.php?s_personId=CP-60028565">Anna Kreshuk's</a> group where I worked on localization of Kinetochores (proteins in cell division process).
- Before that, I worked at <a target="_blank" href="http://www.cinam.univ-mrs.fr/cinam/en/">CNRS CINAM</a> in Marseille, France as Research Engineer (contrat à durée déterminée) on development of automated pipeline for detection and classification of Red Blood Cells from blood flow recordings.
+ Hello, I am a MSc student/ research assistant in <a target="_blank" href="https://www.medicalimageanalysis.com/">MIA group</a> at Simon Fraser University, Canada, under the supervision of Prof. Ghassan Hamarneh. I'm working on ER (Endoplasmic Reticulum) data analysis. Previously, I was a visiting scholar at <a target="_blank" href="https://www.embl.de/">EMBL Heidelberg</a> in <a target="_blank" href="https://www.embl.de/research/units/cbb/kreshuk/members/index.php?s_personId=CP-60028565">Anna Kreshuk's</a> group where I worked on localization of Kinetochores (proteins in cell division process).
+ Before that, I worked at <a target="_blank" href="http://www.cinam.univ-mrs.fr/cinam/en/">CNRS CINAM</a> in Marseille, France as Research Engineer (contrat à durée déterminée) on development of automated pipeline for detection and classification of Red Blood Cells from blood flow recordings. I completed my undergrad in Computer Engineering at <a target="_blank" href="https://pict.edu/">Pune Institute of Computer Technology</a>, University of Pune, Pune, India.
  </p>
-<p class="about-text">
-<!-- <span class="fa fa-graduation-cap about-icon"></span> -->
-I obtained my Bachelor of Engineering degree in Computer Engineering from <a target="_blank" href="https://pict.edu/">Pune Institute of Computer Technology</a>, University of Pune, Pune, India.
-</p>
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
-I'm broadly interested in Computer Vision and Deep Learning along with the computational methods development for scientific problems (Physics, Biology, Climate Science). I also collaborate with researchers at ECMWF as part of the ESoWC (<a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a>) program.
+I'm broadly interested in Computer Vision and Deep Learning along with the development of computational methods for scientific problems: Biology, Physics (collaborations in <a target="_blank" href="https://deepskieslab.com/">DeepSkies</a> and <a target="_blank" href="https://www.darkmachines.org/">DarkMachines</a>), Climate Science (collaboration with ECMWF as part of the ESoWC <a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a> program).
 </p>
 
 <!-- <p class="about-text">
