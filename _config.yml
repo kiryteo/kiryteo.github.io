@@ -24,7 +24,8 @@ title: Ashwin Samudre
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Publications: "publications" 
+  Publications: "publications"
+  Stuff: "stuff" 
   Projects:
     - ESoWC 2021: "https://github.com/esowc/climetlab"
     - ESoWC 2020: "https://github.com/esowc/TC-Tracking"
