@@ -14,7 +14,7 @@ meta-title: About me
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
-I'm broadly interested in Computer Vision and Deep Learning along with the development of computational methods for scientific problems: Biology, Physics (collaborations in <a target="_blank" href="https://deepskieslab.com/">DeepSkies</a> and <a target="_blank" href="https://www.darkmachines.org/">DarkMachines</a>), Climate Science (collaboration with ECMWF as part of the ESoWC <a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a> program).
+I'm broadly interested in Computer Vision and Deep Learning along with the development of computational methods for problems in natural sciences: Biology, Physics (collaborations in <a target="_blank" href="https://deepskieslab.com/">DeepSkies</a> and <a target="_blank" href="https://www.darkmachines.org/">DarkMachines</a>), Climate Science (collaboration with ECMWF as part of the ESoWC <a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a> program).
 </p>
 
 <!-- <p class="about-text">
