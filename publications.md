@@ -28,7 +28,7 @@ Jason Poh, <b>Ashwin Samudre</b>, Aleksandra Ciprijanovic, Brian Nord, Gourav Kh
 <!-- <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE POSTER</b></span> -->
 <b>Ashwin Samudre</b>, Linus Magnusson, Pedro Maciel. <b>*Exploration of Deep Learning techniques to detect and track Tropical Cyclones*</b>, Climate Informatics 2020. (<a target="_blank" href="https://www.researchgate.net/publication/344445846_Exploration_of_Deep_Learning_techniques_to_detect_and_track_Tropical_Cyclones">Extended Abstract</a>)
 
-<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span>
+<!-- <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span> -->
 Nikita Moriakov, <b>Ashwin Samudre</b>, Michela Negro, Fabian Gieseke, Sydney Otten, Luc Hendriks. <b>*Inferring astrophysical X-ray polarization with deep learning*</b>, ICLR 2020 Workshop on Fundamental Science in the Era of AI (FSAI). (<a target="_blank" href="https://arxiv.org/abs/2005.08126">Paper</a>)
 
 <!--<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span>
