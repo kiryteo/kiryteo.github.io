@@ -5,6 +5,11 @@ title: Publications
 
 Papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=Btu380oAAAAJ&hl=en).
 
+## 2024
+
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED0; font-size: 55%;border-radius: 8px; text-align:center;"><b>bioRxiv</b></span>
+<b>Ashwin Samudre</b>, Guang Gao, Ben Cardoen, Ivan Robert Nabi, Ghassan Hamarneh. <b>*nERdy: network analysis of endoplasmic reticulum dynamics*</b>, Under Review. (<a target="_blank" href="https://www.nature.com/articles/s41598-023-27718-w">Paper</a>)
+
 ## 2022
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span>
