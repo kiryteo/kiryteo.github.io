@@ -31,7 +31,7 @@ navbar-links:
     - ESoWC 2020: "https://github.com/esowc/TC-Tracking"
     - GSoC 2018: "https://summerofcode.withgoogle.com/archive/2018/projects/6244789099954176/"
     - Season of KDE 2018: "https://community.kde.org/SoK/2018/StatusReport/Ashwin_Samudre"
-  #Resume / CV: "dmadaan_CV.pdf"
+  CV: "cv"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
