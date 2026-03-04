@@ -3,8 +3,6 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches:
-      - master
   workflow_dispatch:
 
 permissions:
@@ -13,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "hugo-deploy-${{ github.ref }}"
   cancel-in-progress: false
 
 defaults:
