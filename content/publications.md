@@ -5,6 +5,7 @@ url: "/publications/"
 summary: "Academic publications"
 ShowToc: false
 ShowBreadCrumbs: false
+ShowReadingTime: false
 ---
 
 Papers also available on [Google Scholar](https://scholar.google.com/citations?user=Btu380oAAAAJ&hl=en).
