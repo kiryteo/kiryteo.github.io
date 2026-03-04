@@ -46,9 +46,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Ashwin Samudre"
-  subtitle = """AI x Biology at the Allen Institute for Cell Science. \
-Building computational methods at the intersection of machine learning and life sciences — \
-knowledge graphs, foundation models, and computer vision for understanding cells."""
+  subtitle = "AI x Biology at the Allen Institute for Cell Science. Building computational methods at the intersection of machine learning and life sciences."
   imageUrl = "/img/profile.jpg"
   imageWidth = 160
   imageHeight = 160
