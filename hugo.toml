@@ -16,8 +16,8 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Ashwin Samudre"
-description = "AI x Cell Biology — Building computational methods at the intersection of machine learning and life sciences"
-keywords = ["AI", "Machine Learning", "Cell Biology", "Computer Vision", "Deep Learning", "Science"]
+description = "AI x Biology — Building computational methods at the intersection of machine learning and life sciences"
+keywords = ["AI", "Machine Learning", "Biology", "Computer Vision", "Deep Learning", "Science"]
 author = "Ashwin Samudre"
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -38,25 +38,21 @@ showtoc = true
 tocopen = false
 
   [params.assets]
-  favicon = "/img/prof3.jpg"
-  favicon16x16 = "/img/prof3.jpg"
-  favicon32x32 = "/img/prof3.jpg"
-  apple_touch_icon = "/img/prof3.jpg"
+  favicon = "/img/profile.jpg"
+  favicon16x16 = "/img/profile.jpg"
+  favicon32x32 = "/img/profile.jpg"
+  apple_touch_icon = "/img/profile.jpg"
 
   [params.profileMode]
   enabled = true
   title = "Ashwin Samudre"
-  subtitle = """AI x Cell Biology at the Allen Institute for Cell Science. \
+  subtitle = """AI x Biology at the Allen Institute for Cell Science. \
 Building computational methods at the intersection of machine learning and life sciences — \
 knowledge graphs, foundation models, and computer vision for understanding cells."""
-  imageUrl = "/img/prof3.jpg"
+  imageUrl = "/img/profile.jpg"
   imageWidth = 160
   imageHeight = 160
   imageTitle = "Ashwin Samudre"
-
-    [[params.profileMode.buttons]]
-    name = "Projects"
-    url = "/projects/"
 
     [[params.profileMode.buttons]]
     name = "Blog"
@@ -105,12 +101,6 @@ url = "/about/"
 weight = 10
 
 [[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects/"
-weight = 20
-
-[[menu.main]]
 identifier = "publications"
 name = "Publications"
 url = "/publications/"
@@ -121,18 +111,6 @@ identifier = "blog"
 name = "Blog"
 url = "/blog/"
 weight = 40
-
-[[menu.main]]
-identifier = "cv"
-name = "CV"
-url = "/cv/"
-weight = 50
-
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 60
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

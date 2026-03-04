@@ -1,6 +1,7 @@
 ---
 title: "What 6,295 ML Papers Tell You About Where Research is Heading"
 date: 2026-03-02
+draft: true
 description: "Clustering ICLR and NeurIPS papers with TF-IDF, UMAP, and KMeans to find the real structure of ML research in 2024."
 tags: ["machine-learning", "research", "data-analysis", "NeurIPS", "ICLR"]
 ShowToc: true

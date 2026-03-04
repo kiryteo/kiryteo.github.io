@@ -1,6 +1,7 @@
 ---
 title: "How I Built a Knowledge Graph for 80 Scientists"
 date: 2026-03-03
+draft: true
 description: "Building a production knowledge graph at the Allen Institute for Cell Science — from brute-force LLM matching to graph-native intelligence."
 tags: ["knowledge-graphs", "neo4j", "embeddings", "llm", "science"]
 ShowToc: true
