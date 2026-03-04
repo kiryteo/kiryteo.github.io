@@ -14,11 +14,11 @@ Papers also available on [Google Scholar](https://scholar.google.com/citations?u
 
 Jason Poh, **Ashwin Samudre**, Aleksandra Ćiprijanović, Joshua A. Frieman, Gourav Khullar, Brian D. Nord. **Deep inference of simulated strong lenses in ground-based surveys.** *Journal of Cosmology and Astroparticle Physics, 2025(05), 053.* [[Paper]](https://doi.org/10.1088/1475-7516/2025/05/053)
 
+**Ashwin Samudre**, Mircea Petrache, Brian D. Nord, Shubhendu Trivedi. **Symmetry-Based Structured Matrices for Efficient Approximately Equivariant Networks.** *International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.* [[Paper]](https://proceedings.mlr.press/v258/samudre25a.html)
+
 ## 2024
 
 **Ashwin Samudre**, Guang Gao, Ben Cardoen, Bhavesh Joshi, Ivan Robert Nabi, Ghassan Hamarneh. **nERdy: network analysis of endoplasmic reticulum dynamics.** *Communications Biology, 2024.* [[Paper]](https://www.biorxiv.org/content/10.1101/2024.02.20.581259v1)
-
-**Ashwin Samudre**, Mircea Petrache, Brian D. Nord, Shubhendu Trivedi. **Symmetry-Based Structured Matrices for Efficient Approximately Equivariant Networks.** *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.* [[Paper]](https://proceedings.mlr.press/v238/samudre24a.html)
 
 ## 2023
 
