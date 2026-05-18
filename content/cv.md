@@ -10,12 +10,12 @@ ShowBreadCrumbs: false
 ## Experience
 
 ### Allen Institute for Cell Science
-**Software Engineer** · 2023 — Present · Seattle, WA
+**Data Scientist** · 2025 - Present · Seattle, WA
 
 Building computational methods for 3D cell imaging and microscopy. Developing knowledge graphs, foundation models, and AI-powered tools for the Cell Science division.
 
 ### Simon Fraser University
-**M.Sc. Computer Science** · 2021 — 2023 · Burnaby, BC
+**M.Sc. Computer Science** · 2021 — 2024 · Burnaby, BC
 
 Medical Image Analysis group under Prof. Ghassan Hamarneh. Thesis: structural analysis of endoplasmic reticulum dynamics using network-based methods. NanoscopyAI collaboration with UBC.
 
@@ -25,7 +25,7 @@ Medical Image Analysis group under Prof. Ghassan Hamarneh. Thesis: structural an
 Anna Kreshuk's group. Automated localization of kinetochores in cell division microscopy data.
 
 ### CNRS CINAM
-**Research Engineer (CDD)** · 2019 — 2020 · Marseille, France
+**Research Engineer (CDD)** · 2019 - 2020 · Marseille, France
 
 Developed automated pipeline for detection and classification of red blood cells from blood flow recordings. Prototype for ICOVELL spin-off.
 
@@ -43,7 +43,7 @@ Built a package manager for the ROOT data analysis framework.
 
 ## Education
 
-**M.Sc. Computer Science** — Simon Fraser University, 2023
+**M.Sc. Computer Science** — Simon Fraser University, 2024
 
 **B.E. Computer Engineering** — Pune Institute of Computer Technology, University of Pune, 2019
 
